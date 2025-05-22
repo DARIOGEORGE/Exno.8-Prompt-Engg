@@ -2,7 +2,7 @@
 ## Register no.212222230027
 # Aim: 
 To perform the Exploration of Prompting Techniques for Audio Generation
-# 🧠 Prompting Strategy Summary
+# 🧠 Prompting Procedure
 
 ## 🎵 Start Simple
 Use basic prompts for music/voice generation (genre, mood, tempo).
