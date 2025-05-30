@@ -1,5 +1,7 @@
 # Exno.8-Prompt-Engg
 ## Register no.212222230027
+[Audio](https://drive.google.com/file/d/1N-Ts0RcxZRvVj_JPrGeU8Q22k3KoGDiP/view?usp=sharing)
+
 # Aim: 
 To perform the Exploration of Prompting Techniques for Audio Generation
 # 🧠 Prompting Procedure
