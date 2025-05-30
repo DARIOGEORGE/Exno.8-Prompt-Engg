@@ -213,6 +213,45 @@ Compose a musical piece that follows this emotional journey:
 3. Climax: Triumph (full orchestration)
 4. Resolution: Peaceful resolution (resolving to major key)
 Use harmonic tension and instrumentation to convey this progression.
+
+```
+### Output For The Above Prompt
+```
+[Verse]
+Fingers trace the line of doubt
+In shadows where dreams twist and shout
+A world of gray the heart won't claim
+The winds of fear whisper my name
+
+[Verse 2]
+A spark ignites in the empty space
+A fragile flame begins its race
+Through winding paths of risk and gain
+The pulse quickens beneath the strain
+
+[Chorus]
+Rise and rise the melody flies
+Breaking through the heavy skies
+Drums of courage beat so strong
+A symphony where I belong
+
+[Bridge]
+Strings collide in a burst of light
+Horns declare the final fight
+The walls collapse the chains dissolve
+The answer's clear the soul evolves
+
+[Chorus]
+Rise and rise the melody flies
+Breaking through the heavy skies
+Drums of courage beat so strong
+A symphony where I belong
+
+[Outro]
+The tide recedes the waters calm
+A quiet hum a healing balm
+Peaceful echoes drift and fade
+In the stillness my heart is laid
 ```
 
 ### Adaptive Game Audio
