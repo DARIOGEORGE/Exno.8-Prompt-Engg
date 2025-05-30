@@ -252,9 +252,11 @@ The tide recedes the waters calm
 A quiet hum a healing balm
 Peaceful echoes drift and fade
 In the stillness my heart is laid
-
-[Link Text](https://drive.google.com/file/d/1N-Ts0RcxZRvVj_JPrGeU8Q22k3KoGDiP/view?usp=sharing)
 ```
+
+### Generated Audio For Emotional Arc Construction
+[Audio](https://drive.google.com/file/d/1N-Ts0RcxZRvVj_JPrGeU8Q22k3KoGDiP/view?usp=sharing)
+
 
 ### Adaptive Game Audio
 
@@ -354,7 +356,5 @@ Provide binaural and multichannel versions.
 3. Ask for stems for deeper mixing
 
 ---
-# Generated Audio Emotional Arc Construction
-[Link Text](https://drive.google.com/file/d/1N-Ts0RcxZRvVj_JPrGeU8Q22k3KoGDiP/view?usp=sharing)
 # Result:
 The Prompt for the above process executed successfully
